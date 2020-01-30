@@ -34,6 +34,7 @@ public class DbConfig {
     private SQLServerGeneratorDao sqlServerGeneratorDao;
     @Autowired
     private PostgreSQLGeneratorDao postgreSQLGeneratorDao;
+
     @Bean
     @Primary
     public GeneratorDao getGeneratorDao(){

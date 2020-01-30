@@ -12,7 +12,6 @@
     <modules>
         <module>gmall-core</module>
         <module>gmall-admin</module>
-
     </modules>
 
 </project>
